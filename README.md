@@ -1,4 +1,4 @@
-# Aditya_Singh_Internet-Usage-Clustering_202401100300020
+Internet-Usage-Clustering
 🌐 Internet Usage Clustering
 This project uses unsupervised machine learning to cluster internet users based on their activity patterns, including daily usage hours, session frequency, and site categories visited. The goal is to group users into distinct behavioral segments for better understanding and analysis.
 
